@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "383e5483-723a-486e-b04e-db2d292b2bbb": {
+      "ProjectGuid": "383e5483-723a-486e-b04e-db2d292b2bbb",
+      "DisplayName": "SignalRChatServer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
